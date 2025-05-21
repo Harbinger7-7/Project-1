@@ -1,3 +1,5 @@
+#This is the orginal code for the ML model before integration to model.py
+
 import pandas as pd
 import pickle
 from sklearn.model_selection import train_test_split
